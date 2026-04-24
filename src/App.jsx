@@ -1,5 +1,3 @@
-edi app.jsx file lo vunna code edi
-
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
